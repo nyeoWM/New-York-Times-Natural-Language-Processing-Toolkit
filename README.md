@@ -15,7 +15,7 @@ Further Documentation can be found in docs.
 git clone https://github.com/nyeoWM/New-York-Times-Natural-Language-Processing-Toolkit.git
 ```
 
-2. Note: we use Pipenv to manage our dependencies. If you do not have Pipenv installed, install through pip by running the following command in terminal (Mac Os, Linux) or Powershell (Windows). Pip installation instructions can be found here: Installing Packages
+2. Note: we use Pipenv to manage our dependencies. If you do not have Pipenv installed, install through pip by running the following command in terminal (Mac Os, Linux) or Powershell (Windows). Pip installation instructions can be found here: [Installing Pip](https://pip.pypa.io/en/stable/installation/ "Installing Pip")
 
 ```
 pip install pipenv
